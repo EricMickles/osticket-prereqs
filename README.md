@@ -31,25 +31,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/eSrwG6t" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eSrwG6t.png" height="80%" width="80%" alt="Installing osTicket Steps"/>
 </p>
 <p>
-Create resource group in Microsoft Azure.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create resource group and setup a Virtual Machine in Microsft Azure.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/B7nmjaM.png" height="80%" width="80%" alt="Installing osTicket Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Install the osTicket requirements inside of your newly created Virtual Machine and Install osTicket
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/nYQ5rft.png" height="80%" width="80%" alt="Installing osTicket Steps"/>
+</p>
+<p>
+Do the after-installation configuration of osTicket, Explore osTicket as a Help Desk Professional(Create,interact and close tickets) and clean up Virtual Environment in Azure
 </p>
 <br />
