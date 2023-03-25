@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/eSrwG6t.png" height="80%" width="80%" alt="Installing osTicket Steps"/>
 </p>
 <p>
-Create a resource group and setup a Virtual Machine Microsoft Azure.
+Create a resource group and setup a Virtual Machine in Microsoft Azure.
 </p>
 <br />
 
