@@ -47,6 +47,6 @@ Install the osTicket requirements inside of your newly created Virtual Machine a
 <img src="https://i.imgur.com/nYQ5rft.png" height="80%" width="80%" alt="Installing osTicket Steps"/>
 </p>
 <p>
-Do the after-installation configuration of osTicket, Explore osTicket as a Help Desk Professional(Create,interact and close tickets) and clean up Virtual Environment in Azure
+Do the after-installation configuration of osTicket, Explore osTicket as a Help Desk Professional (Create, interact and close tickets) and clean up Virtual Environment in Azure
 </p>
 <br />
